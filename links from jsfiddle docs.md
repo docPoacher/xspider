@@ -15,3 +15,14 @@ use certutil to encode to base64
 certutil -encode openme.bmp openme.txt`
 </details>
 
+
+<details>
+  <summary>Misc</summary>
+https://stackoverflow.com/questions/586182/how-to-insert-an-item-into-an-array-at-a-specific-index-javascript
+https://dmitripavlutin.com/differences-between-arrow-and-regular-functions/
+
+https://stackoverflow.com/questions/11952852/css-make-span-extend-to-end-of-its-container-fill-empty-space
+
+inline block?
+https://quirksmode.org/css/css2/display.html
+</details>
