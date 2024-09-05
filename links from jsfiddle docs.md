@@ -1,0 +1,17 @@
+<details>
+<summary>pip check</summary>
+`https://css-tricks.com/svg-line-animation-works/
+https://yqnn.github.io/svg-path-editor/
+
+https://aydos.com/svgedit/
+
+https://svg-path-visualizer.netlify.app/#M2%2C2%20Q8%2C2%208%2C8
+
+https://css-tricks.com/scale-svg/
+
+https://www.aaron-powell.com/posts/2010-11-07-base64-encoding-images-with-powershell/
+
+use certutil to encode to base64
+certutil -encode openme.bmp openme.txt`
+</details>
+
