@@ -1,7 +1,7 @@
 pip work  
 https://www.w3schools.com/graphics/svg_path.asp
 https://yqnn.github.io/svg-path-editor/
-
+https://observablehq.com/@lemonnish/move-an-svg-icon-along-a-path
 
 listen to Carl Friedrich Abel
   
