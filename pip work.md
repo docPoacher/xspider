@@ -2,7 +2,7 @@ pip work
 https://www.w3schools.com/graphics/svg_path.asp  
 https://yqnn.github.io/svg-path-editor/  
 [move an svg object along a path](https://observablehq.com/@lemonnish/move-an-svg-icon-along-a-path)  
-
+https://developer.mozilla.org/en-US/docs/Web/SVG/Attribute/rotate  
 listen to Carl Friedrich Abel
   
 number 0:
