@@ -6,6 +6,9 @@ https://developer.mozilla.org/en-US/docs/Web/SVG/Attribute/rotate
 https://www.digitalocean.com/community/tutorials/svg-svg-viewbox  
 https://www.fffuel.co/svg-spinner/  
 
+examples of cards  
+https://www.wopc.co.uk/explore/suit/pattern-types/?suit=pattern-types  
+
 
 listen to Carl Friedrich Abel
   
