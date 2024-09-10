@@ -6,6 +6,9 @@ https://developer.mozilla.org/en-US/docs/Web/SVG/Attribute/rotate
 https://www.digitalocean.com/community/tutorials/svg-svg-viewbox  
 https://www.fffuel.co/svg-spinner/  
 
+Relative positioning in SVG:  
+http://sarasoueidan.com/blog/mimic-relative-positioning-in-svg/  
+
 examples of cards  
 https://www.wopc.co.uk/explore/suit/pattern-types/?suit=pattern-types  
 
