@@ -1,0 +1,35 @@
+I am training myself to use the Right Hand shift instead of just the... no I mean I am training myself to use the left HAND shift instead of just the RIGHT hand.
+
+var csuits = ["spades","hearts","clubs","diamonds","bells","acorns","fish","suns"]  //others may include roses, coins, swords, cups, birds...
+               o	p	q	r	    s       t	     u       v   	
+
+w	x	y	z    1
+               s,       h,       c,      d,         b,      a,       f      ,u,...                       r,      o,     w,       p,   i
+spades = z  0
+hearts = y  1
+clubs =  x  2
+diamonds = w3
+bells = v   4
+acorns = u  5
+fish = t    6
+suns = s    7
+roses = r   8
+coins = q   9
+swords = p  10
+cups = o    11
+birds = 1   12
+
+var cvalue = ["A","2","3","4","5","6","7","8","9","10","J","Q","K","Z"]
+               a,  b,  c,  d,  e,  f,  g,  h,  i,  j,   k  ,l  ,m  ,n
+
+               
+example of state with :
+
+Z signifies draw deck
+
+
+
+deck (Z) = ZD2G0B0...
+
+Y
+
