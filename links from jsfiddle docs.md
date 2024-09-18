@@ -1,3 +1,8 @@
+New links:  
+example from mozilla of skewx animate:  
+https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/skewX#try_it  
+
+
 <details>
 <summary>pip check</summary>
 `https://css-tricks.com/svg-line-animation-works/
