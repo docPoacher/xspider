@@ -1,6 +1,8 @@
 New links:  
 example from mozilla of skewx animate:  
 https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/skewX#try_it  
+https://stackoverflow.com/questions/24749030/use-css-to-target-select-animatetransform-element-in-svg  
+
 
 
 <details>
