@@ -5,6 +5,11 @@ https://yqnn.github.io/svg-path-editor/
 https://developer.mozilla.org/en-US/docs/Web/SVG/Attribute/rotate  
 https://www.digitalocean.com/community/tutorials/svg-svg-viewbox  
 https://www.fffuel.co/svg-spinner/  
+tiling on a 3d plane  
+https://stackoverflow.com/questions/78628842/svg-texture-tiled-plane  
+  
+
+
 
 Relative positioning in SVG:  
 http://sarasoueidan.com/blog/mimic-relative-positioning-in-svg/  
