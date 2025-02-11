@@ -12,4 +12,4 @@ This is an improved version of Spider Solitaire which is an improved version of 
 5. I know it is bad practice to put all the functions in one file however my goal is to make a single self contained file that can be executed in any browser environment.  
 
   
-Alpha coming maybe next decade.
+Alpha coming maybe next decade.  
